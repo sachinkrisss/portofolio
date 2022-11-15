@@ -584,5 +584,24 @@ header .navbar ul li a:hover{
         margin-top: 130px;
         margin-bottom: 130px;
     }
+    .certificate-box{
+        text-align: center;
+        position: relative;
+        left: -20px;
+    }
+    .certificate-box img{
+        width: 200px;
+
+        
+    }
+    .certificate-box img:hover{
+        height: 200px;
+        width: 300px;
+        position: relative;
+        right: -30px;
+       
+        
+
+    }
 
  }
